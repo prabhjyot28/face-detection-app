@@ -7,5 +7,7 @@
 **Make sure your server(face-recognition-api) is running, for that check this repo https://github.com/prabhjyot28/face-recogintion-api
 
 For demo purpose use-
+
 Email => user@gmail.com
+
 password => password
